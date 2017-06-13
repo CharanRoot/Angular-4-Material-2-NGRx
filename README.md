@@ -1,8 +1,18 @@
 # TOUR-OF-HEROES
 
-TourOfHeros generated using Angular Cli in Angular 4 + Material 2.0 + NgRx + webpack 2.0.
+Tour Of Heros generated using Angular Cli in Angular 4 + Material 2.0 + ngrx + webpack 2.0.
 
 Used Material 2.0 and Angular Flex Layout.
+
+## Used ngrx concepts like
+
+1. ngrx/store - RxJS powered state management for Angular apps, inspired by Redux
+
+1. ngrx/effects - Side effect model for @ngrx/store
+
+1. angular/router - Angular Router
+
+1. ngrx/store-devtools - Instrumentation for @ngrx/store enabling time-travel debugging
 
 ## Running the Application
 
